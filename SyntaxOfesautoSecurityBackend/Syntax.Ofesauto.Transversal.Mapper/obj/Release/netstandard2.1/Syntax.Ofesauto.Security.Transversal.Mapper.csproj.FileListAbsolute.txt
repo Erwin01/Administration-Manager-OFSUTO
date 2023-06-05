@@ -1,0 +1,14 @@
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Mapper.deps.json
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Mapper.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Mapper.pdb
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Application.DTO.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Application.DTO.pdb
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.pdb
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Mapper.AssemblyInfo.cs
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Mapper.csproj.CopyComplete
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Mapper.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Mapper\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Mapper.pdb
