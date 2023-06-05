@@ -1,0 +1,9 @@
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Domain.Entity\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.AssemblyInfoInputs.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Domain.Entity\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.AssemblyInfo.cs
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Domain.Entity\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Domain.Entity\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Domain.Entity\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.pdb
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Domain.Entity\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.csproj.AssemblyReference.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Domain.Entity\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.deps.json
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Domain.Entity\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Domain.Entity\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.pdb
