@@ -1,0 +1,495 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Repository\\Syntax.Ofesauto.Security.Infraestructure.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Application.DTO\\Syntax.Ofesauto.Security.Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Application.DTO\\Syntax.Ofesauto.Security.Application.DTO.csproj",
+        "projectName": "Syntax.Ofesauto.Security.Application.DTO",
+        "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Application.DTO\\Syntax.Ofesauto.Security.Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\Erwin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Domain.Entity\\Syntax.Ofesauto.Security.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Domain.Entity\\Syntax.Ofesauto.Security.Domain.Entity.csproj",
+        "projectName": "Syntax.Ofesauto.Security.Domain.Entity",
+        "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Domain.Entity\\Syntax.Ofesauto.Security.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\Erwin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Data\\Syntax.Ofesauto.Security.Infraestructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Data\\Syntax.Ofesauto.Security.Infraestructure.Data.csproj",
+        "projectName": "Syntax.Ofesauto.Security.Infraestructure.Data",
+        "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Data\\Syntax.Ofesauto.Security.Infraestructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Erwin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Domain.Entity\\Syntax.Ofesauto.Security.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Domain.Entity\\Syntax.Ofesauto.Security.Domain.Entity.csproj"
+              },
+              "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Transversal.Common\\Syntax.Ofesauto.Security.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Transversal.Common\\Syntax.Ofesauto.Security.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Interface\\Syntax.Ofesauto.Security.Infraestructure.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Interface\\Syntax.Ofesauto.Security.Infraestructure.Interface.csproj",
+        "projectName": "Syntax.Ofesauto.Security.Infraestructure.Interface",
+        "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Interface\\Syntax.Ofesauto.Security.Infraestructure.Interface.csproj",
+        "packagesPath": "C:\\Users\\Erwin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Application.DTO\\Syntax.Ofesauto.Security.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Application.DTO\\Syntax.Ofesauto.Security.Application.DTO.csproj"
+              },
+              "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Domain.Entity\\Syntax.Ofesauto.Security.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Domain.Entity\\Syntax.Ofesauto.Security.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Repository\\Syntax.Ofesauto.Security.Infraestructure.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Repository\\Syntax.Ofesauto.Security.Infraestructure.Repository.csproj",
+        "projectName": "Syntax.Ofesauto.Security.Infraestructure.Repository",
+        "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Repository\\Syntax.Ofesauto.Security.Infraestructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\Erwin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Application.DTO\\Syntax.Ofesauto.Security.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Application.DTO\\Syntax.Ofesauto.Security.Application.DTO.csproj"
+              },
+              "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Data\\Syntax.Ofesauto.Security.Infraestructure.Data.csproj": {
+                "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Data\\Syntax.Ofesauto.Security.Infraestructure.Data.csproj"
+              },
+              "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Interface\\Syntax.Ofesauto.Security.Infraestructure.Interface.csproj": {
+                "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Infraestructure.Interface\\Syntax.Ofesauto.Security.Infraestructure.Interface.csproj"
+              },
+              "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Transversal.Common\\Syntax.Ofesauto.Security.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Transversal.Common\\Syntax.Ofesauto.Security.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Transversal.Common\\Syntax.Ofesauto.Security.Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Transversal.Common\\Syntax.Ofesauto.Security.Transversal.Common.csproj",
+        "projectName": "Syntax.Ofesauto.Security.Transversal.Common",
+        "projectPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Transversal.Common\\Syntax.Ofesauto.Security.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\Erwin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
