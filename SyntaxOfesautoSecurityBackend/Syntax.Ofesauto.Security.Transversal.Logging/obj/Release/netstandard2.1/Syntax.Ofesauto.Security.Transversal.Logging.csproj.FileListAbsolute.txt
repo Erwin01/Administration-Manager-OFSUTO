@@ -1,0 +1,12 @@
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Logging.deps.json
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Logging.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Logging.pdb
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Common.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Common.pdb
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Logging.csproj.AssemblyReference.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Logging.AssemblyInfo.cs
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Logging.csproj.CopyComplete
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Logging.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Security.Transversal.Logging\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Transversal.Logging.pdb
