@@ -1,0 +1,14 @@
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Infraestructure.Interface.deps.json
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Infraestructure.Interface.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Infraestructure.Interface.pdb
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Application.DTO.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Application.DTO.pdb
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\bin\Release\netstandard2.1\Syntax.Ofesauto.Security.Domain.Entity.pdb
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Infraestructure.Interface.csproj.AssemblyReference.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Infraestructure.Interface.AssemblyInfoInputs.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Infraestructure.Interface.AssemblyInfo.cs
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Infraestructure.Interface.csproj.CoreCompileInputs.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Infraestructure.Interface.csproj.CopyComplete
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Infraestructure.Interface.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Infraestructure.Interface\obj\Release\netstandard2.1\Syntax.Ofesauto.Security.Infraestructure.Interface.pdb
