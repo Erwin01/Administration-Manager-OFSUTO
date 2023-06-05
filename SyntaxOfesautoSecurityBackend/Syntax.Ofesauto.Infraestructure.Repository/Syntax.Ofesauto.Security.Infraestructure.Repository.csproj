@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.2" />
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Syntax.Ofesauto.Application.DTO\Syntax.Ofesauto.Security.Application.DTO.csproj" />
+    <ProjectReference Include="..\Syntax.Ofesauto.Infraestructure.Data\Syntax.Ofesauto.Security.Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\Syntax.Ofesauto.Infraestructure.Interface\Syntax.Ofesauto.Security.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\Syntax.Ofesauto.Transversal.Common\Syntax.Ofesauto.Security.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>
