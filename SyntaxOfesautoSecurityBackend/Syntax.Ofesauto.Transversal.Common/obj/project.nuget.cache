@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "01EkvP6AeJfEiCeiluLHaD43p9/TFGo6buLHByCsxOWLMTSrha63Q79nH5GVkDXeYLVOT+b+Ccwg9E92KERiFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erwin\\Downloads\\SyntaxOfesautoSecurityBackend\\Syntax.Ofesauto.Transversal.Common\\Syntax.Ofesauto.Security.Transversal.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erwin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Erwin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Erwin\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

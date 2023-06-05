@@ -1,0 +1,9 @@
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Common\bin\Release\netstandard2.0\Syntax.Ofesauto.Security.Transversal.Common.deps.json
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Common\bin\Release\netstandard2.0\Syntax.Ofesauto.Security.Transversal.Common.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Common\bin\Release\netstandard2.0\Syntax.Ofesauto.Security.Transversal.Common.pdb
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Common\obj\Release\netstandard2.0\Syntax.Ofesauto.Security.Transversal.Common.csproj.AssemblyReference.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Common\obj\Release\netstandard2.0\Syntax.Ofesauto.Security.Transversal.Common.AssemblyInfoInputs.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Common\obj\Release\netstandard2.0\Syntax.Ofesauto.Security.Transversal.Common.AssemblyInfo.cs
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Common\obj\Release\netstandard2.0\Syntax.Ofesauto.Security.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Common\obj\Release\netstandard2.0\Syntax.Ofesauto.Security.Transversal.Common.dll
+C:\Code\Backend\SyntaxOfesautoSecurityBackend\Syntax.Ofesauto.Transversal.Common\obj\Release\netstandard2.0\Syntax.Ofesauto.Security.Transversal.Common.pdb
